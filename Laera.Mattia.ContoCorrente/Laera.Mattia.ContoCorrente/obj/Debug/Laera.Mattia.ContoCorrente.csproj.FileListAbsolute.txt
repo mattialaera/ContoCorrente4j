@@ -1,0 +1,7 @@
+C:\Users\matti\Desktop\Laera.Mattia.ContoCorrente\Laera.Mattia.ContoCorrente\bin\Debug\Laera.Mattia.ContoCorrente.exe.config
+C:\Users\matti\Desktop\Laera.Mattia.ContoCorrente\Laera.Mattia.ContoCorrente\bin\Debug\Laera.Mattia.ContoCorrente.exe
+C:\Users\matti\Desktop\Laera.Mattia.ContoCorrente\Laera.Mattia.ContoCorrente\bin\Debug\Laera.Mattia.ContoCorrente.pdb
+C:\Users\matti\Desktop\Laera.Mattia.ContoCorrente\Laera.Mattia.ContoCorrente\obj\Debug\Laera.Mattia.ContoCorrente.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\Laera.Mattia.ContoCorrente\Laera.Mattia.ContoCorrente\obj\Debug\Laera.Mattia.ContoCorrente.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\Laera.Mattia.ContoCorrente\Laera.Mattia.ContoCorrente\obj\Debug\Laera.Mattia.ContoCorrente.exe
+C:\Users\matti\Desktop\Laera.Mattia.ContoCorrente\Laera.Mattia.ContoCorrente\obj\Debug\Laera.Mattia.ContoCorrente.pdb
